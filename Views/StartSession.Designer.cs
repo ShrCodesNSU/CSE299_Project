@@ -41,13 +41,13 @@
 			this.SessionTextBox.Location = new System.Drawing.Point(12, 12);
 			this.SessionTextBox.Multiline = true;
 			this.SessionTextBox.Name = "SessionTextBox";
-			this.SessionTextBox.Size = new System.Drawing.Size(568, 67);
+			this.SessionTextBox.Size = new System.Drawing.Size(718, 67);
 			this.SessionTextBox.TabIndex = 0;
 			this.SessionTextBox.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
 			// 
 			// PlayerButton
 			// 
-			this.PlayerButton.Location = new System.Drawing.Point(343, 97);
+			this.PlayerButton.Location = new System.Drawing.Point(464, 106);
 			this.PlayerButton.Name = "PlayerButton";
 			this.PlayerButton.Size = new System.Drawing.Size(221, 36);
 			this.PlayerButton.TabIndex = 3;
@@ -57,7 +57,7 @@
 			// 
 			// TeamButton
 			// 
-			this.TeamButton.Location = new System.Drawing.Point(24, 97);
+			this.TeamButton.Location = new System.Drawing.Point(66, 106);
 			this.TeamButton.Name = "TeamButton";
 			this.TeamButton.Size = new System.Drawing.Size(231, 36);
 			this.TeamButton.TabIndex = 4;

@@ -92,7 +92,7 @@ namespace EventController.Views
 				foreach (ListViewItem item in TeamListViewBox.Items)
 				{
 					if (item.Checked)
-						db.Post.PostSessionDetailsData(sessionID, item.SubItems[0].Text, "1");
+						db.Post.PostSessionDetailsData(sessionID, item.SubItems[0].Text, "1"); // 1 => TYPE TEAMS 
 				}
 				cls();
 				this.Close();

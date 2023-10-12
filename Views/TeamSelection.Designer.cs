@@ -48,9 +48,9 @@
 			// 
 			// ClearButton
 			// 
-			this.ClearButton.Location = new System.Drawing.Point(526, 618);
+			this.ClearButton.Location = new System.Drawing.Point(526, 605);
 			this.ClearButton.Name = "ClearButton";
-			this.ClearButton.Size = new System.Drawing.Size(115, 36);
+			this.ClearButton.Size = new System.Drawing.Size(115, 49);
 			this.ClearButton.TabIndex = 2;
 			this.ClearButton.Text = "Clear";
 			this.ClearButton.UseVisualStyleBackColor = true;
@@ -58,9 +58,9 @@
 			// 
 			// SubmitButton
 			// 
-			this.SubmitButton.Location = new System.Drawing.Point(647, 618);
+			this.SubmitButton.Location = new System.Drawing.Point(647, 605);
 			this.SubmitButton.Name = "SubmitButton";
-			this.SubmitButton.Size = new System.Drawing.Size(106, 36);
+			this.SubmitButton.Size = new System.Drawing.Size(106, 49);
 			this.SubmitButton.TabIndex = 3;
 			this.SubmitButton.Text = "Submit";
 			this.SubmitButton.UseVisualStyleBackColor = true;

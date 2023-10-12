@@ -114,7 +114,7 @@ namespace EventController.Views
 
 			new DashBoard().Show();
 
-			//this.Close();
+			//this.Close(); // add this when adding to dashboard 
 		}
 
 		private void Clear_Click(object sender, EventArgs e)
@@ -124,7 +124,7 @@ namespace EventController.Views
 
 		private void StartSession_Load(object sender, EventArgs e)
         {
-
+			//
         }
     }
 }

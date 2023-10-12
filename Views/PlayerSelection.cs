@@ -99,7 +99,7 @@ namespace EventController.Views
 					if (item.Checked)
 					{
 						DataTable playerInfo = db.Get.getPlayerDetails(item.SubItems[0].Text);
-						db.Post.PostSessionDetailsData(sessionID, item.SubItems[0].Text,"0");
+						db.Post.PostSessionDetailsData(sessionID, item.SubItems[0].Text,"0"); // 0 => TYPE PLAYER 
 					}
 				}
 

@@ -145,6 +145,9 @@
     <EmbeddedResource Include="Views\AllPlayers.resx">
       <DependentUpon>AllPlayers.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashBoard.resx">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
